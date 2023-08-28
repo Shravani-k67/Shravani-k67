@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shravani.
 - I'm a Low-Level System Developer and Student.
-- 👀 I’m interested in learning CUDA.
 - 🌱 I’m currently learning OpenGL.
   
 
